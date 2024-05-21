@@ -1,0 +1,5 @@
+@import '~rsuite/dist/rsuite.min.css';
+
+.login-page {
+   padding-top: 100px;
+}

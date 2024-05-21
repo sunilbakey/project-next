@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.login-page {
+    padding-top: 100px;
+}
+
+.dashboard-layout {
+    min-height: 100vh;
+}
